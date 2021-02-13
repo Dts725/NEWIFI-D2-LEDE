@@ -27,7 +27,7 @@
 		2. 网络唤醒
 		3. Frp客户端
 		4. KMS服务器
-	4. OpenClash
+	4. [OpenClash](https://github.com/aorosora/NEWIFI-D2-LEDE/releases/download/2021.2.9/openwrt-ramips-mt7621-d-team_newifi-d2-squashfs-sysupgrade-with-openclash.bin)
 		1. 解锁网易云灰色歌曲
 		2. 上网时间控制
 		3. 网络唤醒
