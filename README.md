@@ -22,7 +22,7 @@
 		3. 网络唤醒
 		4. Frp客户端
 		5. KMS服务器
-	3. PassWall
+	3. [PassWall](https://github.com/aorosora/NEWIFI-D2-LEDE/releases/download/2021.2.9/openwrt-ramips-mt7621-d-team_newifi-d2-squashfs-sysupgrade-with-passwall.bin)
 		1. 上网时间控制
 		2. 网络唤醒
 		3. Frp客户端
