@@ -10,27 +10,8 @@
 
 
 - 包含的服务：
-	1️⃣
-		1. 解锁网易云灰色歌曲
-		2. 上网时间控制
-		3. 网络唤醒
-		4. Frp客户端
-		5. KMS服务器
-	2️⃣
-		1. 解锁网易云灰色歌曲
-		2. 上网时间控制
-		3. 网络唤醒
-		4. Frp客户端
-		5. KMS服务器
-	[3️⃣](https://github.com/aorosora/NEWIFI-D2-LEDE/releases/download/2021.2.9/openwrt-ramips-mt7621-d-team_newifi-d2-squashfs-sysupgrade-with-passwall.bin)
-		1. 上网时间控制
-		2. 网络唤醒
-		3. Frp客户端
-		4. KMS服务器
-	[4️⃣](https://github.com/aorosora/NEWIFI-D2-LEDE/releases/download/2021.2.9/openwrt-ramips-mt7621-d-team_newifi-d2-squashfs-sysupgrade-with-openclash.bin)
-		1. 解锁网易云灰色歌曲
-		2. 上网时间控制
-		3. 网络唤醒
-		4. Frp客户端
-		5. KMS服务器
-
+	1. 解锁网易云灰色歌曲
+	2. 上网时间控制
+	3. 网络唤醒
+	4. Frp客户端
+	5. KMS服务器
