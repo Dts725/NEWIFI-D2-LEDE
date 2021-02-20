@@ -15,3 +15,8 @@
 	3. 网络唤醒
 	4. Frp客户端
 	5. KMS服务器
+
+------------
+
+
+[ALL DIFFERENT FIRMWARES.](https://github.com/aorosora/NEWIFI-D2-LEDE/releases/tag/2021.2.9)
