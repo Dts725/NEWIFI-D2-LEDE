@@ -19,4 +19,4 @@
 ------------
 
 
-[ALL DIFFERENT FIRMWARES.](https://github.com/aorosora/NEWIFI-D2-LEDE/releases/tag/2021.2.9)
+[ALL DIFFERENT FIRMWARES.](https://t.me/selfuseop)
