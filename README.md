@@ -1,5 +1,5 @@
 - 源码来自[**Lean**](https://github.com/coolsnowwolf/lede "Lean")，适用于新路由3代(NEWIFI-D2)的自编译 OpenWRT 固件。
 - 转载请注明**源码**地址
-- [Release](https://github.com/aorosora/NEWIFI-D2-X86-LEDE/releases)
+- [Telegram](https://t.me/joinchat/SQeBuhqIFK_V2vDE) or [Release](https://github.com/aorosora/NEWIFI-D2-X86-LEDE/releases)
 - 192.168.1.1 root password
 - 10.10.10.10 root password
